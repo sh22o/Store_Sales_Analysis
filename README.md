@@ -1,4 +1,4 @@
-# Store_Sales_Analysis 
+# Store_Sales_Report
 
 ![slide1](https://github.com/user-attachments/assets/1981d263-9ff0-4800-9db5-2da61c5d5460)  
 
